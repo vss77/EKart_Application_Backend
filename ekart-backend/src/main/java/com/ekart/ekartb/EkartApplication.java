@@ -1,10 +1,10 @@
-package com.ekart.ekart_backend;
+package com.ekart.ekartb;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class EkartApplication 
 {
     public static void main( String[] args )
     {
